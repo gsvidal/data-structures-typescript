@@ -29,4 +29,8 @@ export class HashTable {
       this.buckets[index]?.push(value);
     }
   }
+
+  delete() {
+    
+  }
 }

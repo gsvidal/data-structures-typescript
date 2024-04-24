@@ -1,4 +1,4 @@
-import { CustomArray } from "./data-structures/array";
+// import { CustomArray } from "./data-structures/array";
 import { HashTable } from "./data-structures/hashTable";
 import "./style.css";
 
