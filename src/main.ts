@@ -36,11 +36,11 @@ console.log(newHashTable);
 newHashTable.set("Wiu", "35");
 console.log(newHashTable);
 
-newHashTable.set("Lex", "6");
-console.log(newHashTable);
+// newHashTable.set("Lex", "6");
+// console.log(newHashTable);
 
-newHashTable.set("Kakito", "16");
-console.log(newHashTable);
+// newHashTable.set("Kakito", "16");
+// console.log(newHashTable);
 
-newHashTable.set("Osa", "8");
-console.log(newHashTable);
+// newHashTable.set("Osa", "8");
+// console.log(newHashTable);

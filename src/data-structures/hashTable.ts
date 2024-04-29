@@ -16,7 +16,7 @@ export class HashTable {
     for (let i = 0; i < key.length; i++) {
       hash += key.charCodeAt(i);
     }
-    console.log("hash: ", hash % this.size);
+    // console.log("hash: ", hash % this.size);
     return hash % this.size;
   }
 
@@ -30,7 +30,11 @@ export class HashTable {
     }
   }
 
-  delete() {
+  get(key:string) {
+    
+  }
+
+  delete(key: string) {
     
   }
 }
